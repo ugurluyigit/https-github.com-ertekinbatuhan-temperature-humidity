@@ -1,0 +1,137 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\arge\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\arge\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\standard"
+  },
+  {
+    "Sourcefile": "C:\\Users\\arge\\Documents\\dev\\leonardo-temperature-controller\\cpu\\build\\sketch\\cpu.ino.cpp",
+    "Include": "ArduinoJson.h",
+    "Includepath": "C:\\Users\\arge\\Documents\\Arduino\\libraries\\ArduinoJson\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\arge\\Documents\\dev\\leonardo-temperature-controller\\cpu\\build\\sketch\\cpu.ino.cpp",
+    "Include": "SPI.h",
+    "Includepath": "C:\\Users\\arge\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\libraries\\SPI\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\arge\\Documents\\dev\\leonardo-temperature-controller\\cpu\\build\\sketch\\cpu.ino.cpp",
+    "Include": "Adafruit_GFX.h",
+    "Includepath": "C:\\Users\\arge\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library"
+  },
+  {
+    "Sourcefile": "C:\\Users\\arge\\Documents\\dev\\leonardo-temperature-controller\\cpu\\build\\sketch\\cpu.ino.cpp",
+    "Include": "Adafruit_I2CDevice.h",
+    "Includepath": "C:\\Users\\arge\\Documents\\Arduino\\libraries\\Adafruit_BusIO"
+  },
+  {
+    "Sourcefile": "C:\\Users\\arge\\Documents\\dev\\leonardo-temperature-controller\\cpu\\build\\sketch\\cpu.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Users\\arge\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\libraries\\Wire\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\arge\\Documents\\dev\\leonardo-temperature-controller\\cpu\\build\\sketch\\cpu.ino.cpp",
+    "Include": "DHT.h",
+    "Includepath": "C:\\Users\\arge\\Documents\\Arduino\\libraries\\DHT_sensor_library"
+  },
+  {
+    "Sourcefile": "C:\\Users\\arge\\Documents\\dev\\leonardo-temperature-controller\\cpu\\build\\sketch\\cpu.ino.cpp",
+    "Include": "DHT22.h",
+    "Includepath": "C:\\Users\\arge\\Documents\\Arduino\\libraries\\DHT22"
+  },
+  {
+    "Sourcefile": "C:\\Users\\arge\\Documents\\dev\\leonardo-temperature-controller\\cpu\\build\\sketch\\cpu.ino.cpp",
+    "Include": "Adafruit_Sensor.h",
+    "Includepath": "C:\\Users\\arge\\Documents\\Arduino\\libraries\\Adafruit_Unified_Sensor"
+  },
+  {
+    "Sourcefile": "C:\\Users\\arge\\Documents\\dev\\leonardo-temperature-controller\\cpu\\build\\sketch\\cpu.ino.cpp",
+    "Include": "Adafruit_PCD8544.h",
+    "Includepath": "C:\\Users\\arge\\Documents\\Arduino\\libraries\\Adafruit_PCD8544_Nokia_5110_LCD_library"
+  },
+  {
+    "Sourcefile": "C:\\Users\\arge\\Documents\\dev\\leonardo-temperature-controller\\cpu\\build\\sketch\\cpu.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\arge\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\libraries\\SPI\\src\\SPI.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\arge\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library\\Adafruit_GFX.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\arge\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library\\Adafruit_GrayOLED.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\arge\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library\\Adafruit_SPITFT.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\arge\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library\\glcdfont.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\arge\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_BusIO_Register.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\arge\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_I2CDevice.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\arge\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_SPIDevice.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\arge\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\libraries\\Wire\\src\\Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\arge\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\libraries\\Wire\\src\\utility\\twi.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\arge\\Documents\\Arduino\\libraries\\DHT_sensor_library\\DHT.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\arge\\Documents\\Arduino\\libraries\\DHT_sensor_library\\DHT_U.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\arge\\Documents\\Arduino\\libraries\\DHT22\\DHT22.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\arge\\Documents\\Arduino\\libraries\\Adafruit_Unified_Sensor\\Adafruit_Sensor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\arge\\Documents\\Arduino\\libraries\\Adafruit_PCD8544_Nokia_5110_LCD_library\\Adafruit_PCD8544.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
